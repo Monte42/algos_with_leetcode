@@ -19,14 +19,3 @@ var pivotIndex = function(nums) {
 // console.log(pivotIndex([1,7,3,6,5,6]));
 // console.log(pivotIndex([1,2,3]))
 // console.log(pivotIndex([2,1,-1]))
-
-var isIsomorphic = function(s, t) {
-    return 1
-}
-
-console.log(isIsomorphic('egg', 'add'))
-console.log(isIsomorphic('foo', 'bar'))
-console.log(isIsomorphic('oof', 'baa'))
-console.log(isIsomorphic('oof', 'baae'))
-console.log(isIsomorphic('paper', 'title'))
-console.log(isIsomorphic('bbbaaaba', 'aaabbbba'))
